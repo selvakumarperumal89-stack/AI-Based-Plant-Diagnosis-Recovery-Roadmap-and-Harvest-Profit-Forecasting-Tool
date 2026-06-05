@@ -2,5 +2,4 @@ flask
 numpy
 pillow
 pandas
-tensorflow-cpu==2.13.0
 gunicorn
